@@ -1,9 +1,3 @@
-<%-- 
-    Document   : admin
-    Created on : 30 Apr, 2019, 12:08:31 AM
-    Author     : Ruthvik m r
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
